@@ -221,8 +221,8 @@ td, th {
     line-height: 1.5;
 }
 
-.itens:first-child {
-    font-weight: bold;
+.itens:before {
+    content: "🟊";
 }
 
 .imagembeneficios {
