@@ -7,6 +7,11 @@ header {
     padding: 20px 0;
 }
 
+header, a {
+    color: transparent;
+    left: -100000px;
+}
+
 .caixa {
     position: relative;
     width: 940px;
@@ -85,7 +90,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url("bg.jpg");
+    background: url("../img/bg.jpg");
     padding: 40px 0;
 }
 
@@ -244,6 +249,7 @@ td, th {
 @media screen and (max-width:480px){
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
+        padding: 0px 12px;
     }
 
     h1 {
