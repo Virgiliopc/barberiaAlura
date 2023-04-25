@@ -1,25 +1,26 @@
 <p align="center">
     <img src="./assets/img/one-education.png" max-width="800">
 </p>
-
 # Barbearia Alura 💇
+
+## :information_source: Sobre
 
 Esse foi um projeto desenvolvido durante a formação para iniciante em programação do programa da One Oracle Education + Alura! 
 O site contém as páginas de: <strong>home</strong>, <strong>produtos</strong> e <strong>contato</strong>.
 
-A página <strong>home</strong> possui: 
+## :seedling: A página <strong>home</strong> possui: 
 <ul>
   <li>Informações sobre a Barbearia Alura;</li>
   <li>A localização do estabelecimento;</li>
   <li>E os seus Benefícios.</li>
 </ul>
-A página de <strong>produtos</strong> possui:
+## :seedling: A página de <strong>produtos</strong> possui:
 <ul>
   <li>Informações sobre os produtos;</li>
   <li>A descrição sobre os produtos;</li>
   <li>Preço sobre os produtos.</li>
 </ul>
-Já a última página de <strong>Contatos</strong> possui:
+## :seedling: Já a última página de <strong>Contatos</strong> possui:
 <ul>
   <li>O formulário de contato;</li>
   <li>A preferência da forma de contato;</li>
