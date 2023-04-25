@@ -2,13 +2,27 @@ body {
     background:#CCCCCC;    
 }
 
+header, a {
+    width: 100%;
+}
+
 #banner {
     width: 100%;
 }
 
-.principal{
-    background: #CCCCCC;
-    padding: 35px;   
+.titulo-principal {
+    font-size: 2em;
+    text-align: center;
+    margin: 0 0 1em;
+    clear: left; 
+}
+
+.principal, h2 {
+    margin: 0 0 1em;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;  
+    font-size: 18px;
 }
 
 h1 {
