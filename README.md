@@ -14,12 +14,14 @@ O site contém as páginas de: <strong>home</strong>, <strong>produtos</strong> 
   <li>A localização do estabelecimento;</li>
   <li>E os seus Benefícios.</li>
 </ul>
+
 ## :seedling: A página de <strong>produtos</strong> possui:
 <ul>
   <li>Informações sobre os produtos;</li>
   <li>A descrição sobre os produtos;</li>
   <li>Preço sobre os produtos.</li>
 </ul>
+
 ## :seedling: Já a última página de <strong>Contatos</strong> possui:
 <ul>
   <li>O formulário de contato;</li>
