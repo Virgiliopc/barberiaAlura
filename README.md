@@ -4,22 +4,39 @@
 
 # Barbearia Alura 💇
 
-Esse foi um projeto desenvolvido durante a primeira parte da Formação Front-end da Alura! 
+Esse foi um projeto desenvolvido durante a formação para iniciante em programação do programa da One Oracle Education + Alura! 
 O site contém as páginas de: <strong>home</strong>, <strong>produtos</strong> e <strong>contato</strong>.
 
 A página <strong>home</strong> possui: 
 <ul>
-  <li>Informações sobre a barbearia Alura;</li>
-  <li>Sobre o estabelecimento;</li>
-  <li>Benefícios.</li>
+  <li>Informações sobre a Barbearia Alura;</li>
+  <li>A localização do estabelecimento;</li>
+  <li>E os seus Benefícios.</li>
 </ul>
 A página de <strong>produtos</strong> possui:
 <ul>
   <li>Informações sobre os produtos;</li>
+  <li>A descrição sobre os produtos;</li>
   <li>Preço sobre os produtos.</li>
 </ul>
 Já a última página de <strong>Contatos</strong> possui:
 <ul>
-  <li>Formulário de contato;</li>
+  <li>O formulário de contato;</li>
+  <li>A preferência da forma de contato;</li>
+  <li>O horário preferido para contato</li>
+  <li>E a opção por receber as novidades</li>
   <li>Tabela de horários de funcionamento.</li>
 </ul>
+
+## :seedling: Requisitos Mínimos
+
+Vontade de aprender.
+
+# :rocket: Material de Referência e Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- HTML e CSS.
+
+
+## 🚀 Let's code! 🚀
